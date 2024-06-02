@@ -1,0 +1,5 @@
+NO=1|street=Main Street|municipality=Central City|postcode=12345|city=Metropolis|neighbourhood=Downtown|country=USA_EN
+NO=2|street=Oak Avenue|municipality=Springfield|postcode=67890|city=Capital City|neighbourhood=Eastside|country=USA_EN
+NO=3|street=Maple Street|municipality=Shelbyville|postcode=11223|city=Gotham|neighbourhood=West End|country=USA_EN
+NO=4|street=Pine Lane|municipality=Riverdale|postcode=33445|city=Star City|neighbourhood=North Heights|country=USA_EN
+NO=5|street=Cedar Boulevard|municipality=Brooklyn|postcode=55667|city=Coast City|neighbourhood=South Park|country=USA_EN
